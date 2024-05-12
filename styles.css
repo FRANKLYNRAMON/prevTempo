@@ -12,6 +12,8 @@ body {
   justify-content: center;
   align-items: center;
   background-image: url("https://source.unsplash.com/1600x900/?landscape");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .caixa-maior {
@@ -55,7 +57,7 @@ body {
 .cidade {
   color: #ffffff;
   font-size: 28px;
-  font-
+  
 }
 
 .temp {
@@ -73,7 +75,7 @@ body {
 .texto-previsao {
   color: #ffffff;
   margin-left: 20px;
-  text-transform: capitalize; // deixa a primeira letra maiuscula
+  text-transform: capitalize;
 }
 
 .umidade {
