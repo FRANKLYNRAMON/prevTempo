@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("https://unsplash.com/pt-br/fotografias/corpo-de-agua-cercado-por-arvores-NRQV-hBF10M");
+  background-image: url(./img-fundo-Prevtempo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
